@@ -1,0 +1,2 @@
+# Kaggle-Competition-Prediction-on-House-Price---Advanced-Regression-Techniques-Top-1-Ranking-
+Cleaned and preprocessed a dataset of 1,460 houses with 79 features, handled missing data and outliers, and expanded feature space from 79 to 286 dimensions by performing feature engineering, Employed data visualization techniques to identify and fix data irregularities, established multiple regression models through blending and stacking methods
